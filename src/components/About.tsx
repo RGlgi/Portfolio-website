@@ -5,9 +5,9 @@ const About = () => (
     <h2 className="text-2xl font-bold mb-4 text-orange-400">About Me</h2>
     <div className="bg-white/10 p-6 rounded-lg shadow-md text-sm sm:text-base leading-relaxed text-gray-200">
       <p className="mb-4">
-        I’m <strong>I’m Rabia Gelgi</strong>, a front-end developer with a
-        degree in Computer Engineering and a strong foundation in React,
-        JavaScript, TypeScript, and responsive UI development.
+        I’m <strong> Rabia Gelgi</strong>, a front-end developer with a degree
+        in Computer Engineering and a strong foundation in React, JavaScript,
+        TypeScript, and responsive UI development.
       </p>
       <p className="mb-4">
         I specialize in building accessible, user-centered web applications with
