@@ -1,6 +1,6 @@
 // src/App.tsx
 import React from 'react'
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import About from './components/About.tsx'
 import Skills from './components/Skills.tsx'
 import Projects from './components/Projects.tsx'
